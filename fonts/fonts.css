@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Museo Light';
+    src: url('/fonts/MuseoSansCyrl_0.otf'); /* 300 */
+}
+
+@font-face {
+    font-family: 'Museo Regular';
+    src: url('/fonts/MuseoSansCyrl_1.otf'); /* 500 */
+}
+
+@font-face {
+    font-family: 'Museo Bold';
+    src: url('/fonts/MuseoSansCyrl_2.otf'); /* 700 */
+}
+
+@font-face {
+    font-family: 'Museo Extra bold';
+    src: url('/fonts/MuseoSansCyrl_3.otf'); /* 900 */
+}
